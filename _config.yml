@@ -3,5 +3,5 @@ permalink: /:year/:month/:day/:title
 markdown: rdiscount
 exclude: ['.git']
 name: "Pippi's Magic Box"
-description: "A party space for all of us. Just come and chill"
+description: "happy to meet you here!"
 url: https://pippi.blog
