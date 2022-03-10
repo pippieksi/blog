@@ -5,3 +5,4 @@ exclude: ['.git']
 name: "Pippi's Magic Box"
 description: "happy to meet you here!"
 url: https://pippi.blog
+future: true
