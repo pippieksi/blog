@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hey, it's me"
-date: 2022-10-03 16:27:00 +0000
+date: 2022--01-27 00:00:00 +0000
 categories: fun-things philosoffy
 ---
 <a href="/" class="birdie1">
