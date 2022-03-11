@@ -36,6 +36,12 @@
 
     <div class="post-body">
       {{ content }}
+
+      <div class="post=comments">
+        {% if page.comments_id %}
+                {% include comments.html %}
+        {% endif %}
+      </div>
     </div>
   </div>
 </body>
