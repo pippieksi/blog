@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I’m actually not sure about the purpose of this blog. Oh well :)
+I’m actually not sure about the purpose of this blog but whatever :)
 
 
