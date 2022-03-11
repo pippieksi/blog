@@ -3,7 +3,7 @@ layout: post
 title: "Hey what's up"
 date: 2022-03-09 16:23:00 +0000
 categories: fun-things philosoffy
-comment_issue_id: 1
+comments_id: 1
 ---
 <a href="/" class="birdie1">
       <img src="/img/birdie1.jpg">
